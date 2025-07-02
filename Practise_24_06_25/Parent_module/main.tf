@@ -94,3 +94,7 @@ module "jitudb" {
 # Hello
 #how are you
 # I am fine
+# I am learning terraform
+# I am learning how to create a resource group, vnet, subnet, public ip,
+# nic, vm, nsg, sql server and database using terraform
+# I am also learning how to use modules in terraform
