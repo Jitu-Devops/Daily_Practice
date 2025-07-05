@@ -91,5 +91,5 @@ module "jitudb" {
   collation       = "SQL_Latin1_General_CP1_CI_AS"
   sku_name        = "GP_Gen5_2"
 }
-#"my name is jitu"
+# my name is jitu
 # I am from mathura
